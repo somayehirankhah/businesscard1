@@ -1,0 +1,15 @@
+{
+  "name": "Scrim-s0hotvo740",
+  "description": "https://v2.scrimba.com/s0hotvo740",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest",
+    "imba": "latest"
+  },
+  "devDependencies": {}
+}
